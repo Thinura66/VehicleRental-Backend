@@ -680,15 +680,7 @@
   },
   "assets": [],
   "project": {
-    "ios": {
-      "sourceDir": "C:\\Users\\DELL\\VehicleRental-Frontend\\TempProject\\ios",
-      "xcodeProject": {
-        "name": "TempProject.xcodeproj",
-        "path": ".",
-        "isWorkspace": false
-      },
-      "assets": []
-    },
+    "ios": null,
     "android": {
       "sourceDir": "C:\\Users\\DELL\\VehicleRental-Frontend\\android",
       "appName": "app",
